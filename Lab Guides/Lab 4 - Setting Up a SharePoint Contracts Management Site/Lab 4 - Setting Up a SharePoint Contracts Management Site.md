@@ -1,10 +1,12 @@
 # Lab 4 – Setting Up a SharePoint Contracts Management Site
 
+## Objective
+
+This Lab guides you through configuring Microsoft Syntex and creating Sharepoint Contract Management Site and performing actions on the site via Sharepoint Portal.
+
 ## Task 1 - Redeem the Azure Pass Redeeming a Microsoft Azure Pass Promo Code
 
-1.  Open a browser and navigate to: **www.microsoftazurepass.com**
-
-It is recommended you close all browsers and open a new In-Private
+1.  Open a browser and navigate to: **www.microsoftazurepass.com**. It is recommended you close all browsers and open a new In-Private
 Browser session. Other log-ins can persist and cause errors during the
 activation step.
 
@@ -369,3 +371,8 @@ generated](./media/image48.png)
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image49.png)
+
+
+### Summary
+
+Congratulations! You have completed Lab 4 by configuring Microsoft Syntex and creating Sharepoint Contract Management Site and performing actions on the site via Sharepoint Portal.
