@@ -1,5 +1,10 @@
 # Lab 1 – Install and setting up Answers in Viva Engage for the users
 
+### Objective
+
+This Lab guides you through the configuring the Answers and options available in Viva Engage.
+
+
 ### Exercise 1 – Pinning Viva Engage to Users' Teams Interface
 
 1.  Open the [Teams](https://teams.microsoft.com/v2/) Apps or switch
@@ -201,3 +206,7 @@ these steps:
     associated with any questions where it was previously used.
 
 ![](./media/image22.png)
+
+### Summary
+
+You have successfully completed Lab 1 understanding the features of Viva Engage.
