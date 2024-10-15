@@ -8,3 +8,5 @@ Knowledge management plays a vital role in delivering world-class customer care.
 
 3. Customers can use knowledge management search capabilities across channels to resolve issues for themselves. The results are fewer support tickets and higher customer satisfaction.
 
+![](./media/km-benefits.png)
+
