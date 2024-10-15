@@ -1,4 +1,4 @@
-# Lab 2 – Install and set up Answers in Viva Engage for the users
+# Lab 1 – Install and setting up Answers in Viva Engage for the users
 
 ### Exercise 1 – Pinning Viva Engage to Users' Teams Interface
 
