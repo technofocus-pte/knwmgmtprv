@@ -1,4 +1,4 @@
-# Lab 3 – [Set up Microsoft Viva Learning in the Teams admin center](https://learn.microsoft.com/en-us/viva/learning/set-up-viva-learning)
+# Lab 2 – Setting up Microsoft Viva Learning in the Teams admin center
 
 ## Exercise 1 – Pinning Viva Learning to Users' Teams Interface
 
