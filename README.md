@@ -8,5 +8,5 @@ Knowledge management plays a vital role in delivering world-class customer care.
 
 3. Customers can use knowledge management search capabilities across channels to resolve issues for themselves. The results are fewer support tickets and higher customer satisfaction.
 
-![](./media/km-benefits.png)
+![](./Lab Guides/Lab 1 - Installing and setting up Answers in Viva Engage for the users/media/km-benefits.png)
 
