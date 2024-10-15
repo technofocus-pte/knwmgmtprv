@@ -1,5 +1,9 @@
 # Lab 2 – Setting up Microsoft Viva Learning in the Teams admin center
 
+## Objective
+
+This Lab guides you through configuring Viva Learning and Learning path via Teams
+
 ## Exercise 1 – Pinning Viva Learning to Users' Teams Interface
 
 1.  Open the teams Apps or switch back to the Teams app if it already
@@ -212,3 +216,7 @@ generated](./media/image28.png)
 
 Note - You can also share and recommend your curated collections with
 peers through the **Share** and **Recommend** options.
+
+### Summary
+
+ Congratulations! You have completed Lab 2 configuring Viva Learning and Learning path via Teams
