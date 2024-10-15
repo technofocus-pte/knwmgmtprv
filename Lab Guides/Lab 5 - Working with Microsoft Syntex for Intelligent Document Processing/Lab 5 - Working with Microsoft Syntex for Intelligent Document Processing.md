@@ -1,5 +1,9 @@
 # Lab 5 – Working with Microsoft Syntex for Intelligent Document Processing
 
+## Objective
+
+This Lab guides you through creating and exploring a few document processing features available in Microsoft Syntex
+
 ## Exercise 1 – Exploring Prebuilt Document Processing Features
 
 ### Task 1 – Enable the prebuilt model processing feature to process files
@@ -1828,3 +1832,8 @@ generated](./media/image188.png)
 
 ![A screenshot of a computer Description automatically
 generated](./media/image189.png)
+
+
+### Summary
+
+Congratulations! You have completed Lab 5 by creating and exploring a few document processing features available in Microsoft Syntex
