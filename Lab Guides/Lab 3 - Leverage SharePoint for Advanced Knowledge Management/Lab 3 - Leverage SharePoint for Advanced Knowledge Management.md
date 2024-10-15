@@ -1,5 +1,9 @@
 # Lab 3 – Leverage SharePoint for Advanced Knowledge Management
 
+## Objective
+
+This Lab guides you through creation of Sharepoint and performing various actions on the site. In addition, you will also learn about configuring Term store in the Oneline Sharepoint Portal
+
 ## Exercise 1 – Understanding SharePoint Site Structure and Navigation
 
 ### Task 1 – Create a Team site
@@ -521,3 +525,8 @@ generated](./media/image51.png)
     - Select **Save**.
 
 ![](./media/image52.png)
+
+
+### Summary
+
+Congratulations! You have completed Lab 3 by creating a Sharepoint and performing various actions on the site. In addition, you will also learnt about configuring Term store in the Oneline Sharepoint Portal
