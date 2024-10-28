@@ -4,6 +4,10 @@
 
 This Lab guides you through configuring Viva Learning and Learning path via Teams
 
+**Note** - The credentials provided with the labs have a limited access to some of the features of content management. So some features mentioned in the labs as optional will not be available. If you have access to credentials with the Global Admin privileges you can also use the lab instructions to explore the features that need higher access than in the current credentials, at your convenience
+.
+Additionally, due to continual product updates, some UI elements may differ from the screenshots provided with  the instructions. Nevertheless, you may navigate the available options and proceed with the steps as outlined
+
 ## Exercise 1 – Pinning Viva Learning to Users' Teams Interface
 
 1.  Open the teams Apps or switch back to the Teams app if it already
