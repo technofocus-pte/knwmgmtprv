@@ -7,7 +7,7 @@ This Lab guides you through the configuring the Answers and options available in
 
 ### Exercise 1 – Pinning Viva Engage to Users' Teams Interface
 
-1.  Open the [Teams](https://teams.microsoft.com/v2/) Apps or switch
+1.  Open the `https://teams.microsoft.com/v2/` Apps or switch
     back to the Teams app if it already launched.
 
 2.  Select the horizontal three dots on the left navigation pane. Enter
@@ -158,39 +158,9 @@ information panel.
 ![A screenshot of a phone Description automatically
 generated](./media/image16.png)
 
-#### Reset the information panel
-
-1.  Select the edit icon from the top left corner of the information
-    panel.
-
-2.  Select **Reset** from the bottom-left corner.
-
-![Screenshot showing the info panel reset option.](./media/image17.png)
 
 ### Task 2 – Managing Topics in Answers (Featuring, Reviewing, Removing)
 
-#### Create topics in Answers
-
-1.  Select **Topics to follow** on the right-hand side of the page.
-
-![](./media/image18.png)
-
-2.  Select **Create topic**
-
-![A screenshot of a computer Description automatically
-generated](./media/image19.png)
-
-3.  Enter the below details
-
-    1.  **Topic Name** - Viva Introduction
-
-    2.  **Description** – Viva Introduction
-
-    3.  Select **Create Topic**
-
-![](./media/image20.png)
-
-![](./media/image21.png)
 
 #### Remove topics in Answers
 
